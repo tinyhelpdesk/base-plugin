@@ -1,3 +1,3 @@
-# base-plugin
+# TinyHelpdesk Base Plugin
 
-base-plugin handles communication between core and extensions.
+TinyHelpdesk base plugin handles communication between core and extensions.
