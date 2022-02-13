@@ -14,9 +14,9 @@
     "url": "https://github.com:tinyhelpdesk/base-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com:tinyhelpdesk/base-plugin/issues"
+    "url": "https://github.com/tinyhelpdesk/base-plugin/issues"
   },
-  "homepage": "https://github.com:tinyhelpdesk/base-plugin#readme",
+  "homepage": "https://github.com/tinyhelpdesk/base-plugin#readme",
   "scripts": {
     "build": "npx tsc",
     "dev": "node -r ts-node/register ./src/index.ts",
